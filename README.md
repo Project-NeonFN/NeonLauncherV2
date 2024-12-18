@@ -1,2 +1,2 @@
 # NeonLauncherV2
-Official ProjectNeon Fortnite Launcher
+NeonLauncherV2 Coming Soon...
